@@ -19,7 +19,7 @@ just a girl who love about computer science and digital painting ig
 # Projects
 not yet :)
 
-## socials
+# Socials
 
 - [carrd (yeah I haven't make any personal web)](https://suprix.carrd.co/)
 - [Instagram (art)](https://www.instagram.com/suprixy/)
