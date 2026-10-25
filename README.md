@@ -19,6 +19,11 @@ just a girl who love about computer science and digital painting ig
 # Projects
 not yet :)
 
+## socials
+
+- [carrd (yeah I haven't make any personal web)](https://suprix.carrd.co/)
+- [Instagram (art)](https://www.instagram.com/suprixy/)
+
 <!--
 **Suprixy/Suprixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
