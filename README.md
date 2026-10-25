@@ -1,6 +1,23 @@
-## Hi there 👋
 
-![photo profile](https://github.com/Suprixy/Suprixy/blob/472ab939cbec4c3e323c0042f52216bb97d0b31e/suprix%20cookie.jpg)
+
+<img 
+  style="width:500px;
+  display:block;
+  vertical-align:top;
+  margin:5px auto;
+  text-align:center;" src="https://github.com/Suprixy/Suprixy/blob/0cbcd8c41be3bde2cdf1feb90c4b788ca161a6e6/suprix%20beach%20banner_20260506075640.png" alt="suprixpp"> 
+
+# Ello, I'm Suprixy! 
+
+just a girl who love about computer science and digital painting ig
+
+# About me
+
+- Speak Indonesian and English
+- beginner to intermediate to programming (ig)
+
+# Projects
+not yet :)
 
 <!--
 **Suprixy/Suprixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
