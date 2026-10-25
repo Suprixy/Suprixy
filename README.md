@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![photo profile](https://github.com/Suprixy/Suprixy/blob/472ab939cbec4c3e323c0042f52216bb97d0b31e/suprix%20cookie.jpg)
+
 <!--
 **Suprixy/Suprixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
