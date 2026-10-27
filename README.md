@@ -17,7 +17,7 @@ just a girl who love about computer science and digital painting ig
 - beginner to intermediate to programming (ig)
 
 # Projects
-not yet :)
+- [Nartial-obsidian](https://github.com/Suprixy/nartial-obsidian): Notes about my own fantasy world (no code)
 
 # Socials
 
